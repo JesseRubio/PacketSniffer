@@ -18,9 +18,9 @@ sudo pip install scapy
 ```
 
 ### Installation
-- [x] **git clone this repo**
-- [x] ***cd PacketSniffer*** 
-- [x] **python3 PacketSniffer.py**
+1. **git clone this repo**
+2. ***cd PacketSniffer*** 
+3. **python3 PacketSniffer.py**
 
 ![image](https://user-images.githubusercontent.com/70275323/116866005-4b7bb580-ac28-11eb-8a5a-00832d650baf.png)
 
